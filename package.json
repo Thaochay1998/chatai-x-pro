@@ -1,12 +1,4 @@
-{
-  "name": "chatai-x-pro",
-  "version": "1.0.0",
-  "description": "ChatAI X Pro App",
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.js"
-  },
-  "dependencies": {
-    "express": "^4.19.2"
-  }
+"dependencies": {
+  "express": "^4.19.2",
+  "replicate": "^0.34.0"
 }
